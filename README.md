@@ -47,7 +47,7 @@ The project contains the main C# source files responsible for handling the libra
 
 ## 📸 Project Preview
 
-[Library Management System](screenshots/library-system.png)
+[Library Management System](screenshots/Preview.png
 
 ## 🎓 About the Project
 
